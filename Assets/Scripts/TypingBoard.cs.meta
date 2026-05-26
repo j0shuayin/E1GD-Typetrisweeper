@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: de2206be983054d5f882f2148b1774e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilemap: {instanceID: 0}
+  - blackBackgroundTile: {fileID: 11400000, guid: 17e2b1cea4b07495083cbbc52dc6ff29, type: 2}
+  - grayCursorTile: {instanceID: 0}
+  - redErrorTile: {fileID: 11400000, guid: dd7546089c90f4313858d99d89612432, type: 2}
+  - greenCorrectTile: {fileID: 11400000, guid: 9269aac4ec983474d82472165428759e, type: 2}
+  - fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
